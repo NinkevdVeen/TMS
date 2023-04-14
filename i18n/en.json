@@ -73,7 +73,11 @@
             "CANCEL_ORDER_QUESTION": "Are you sure you want to cancel the order?",
             "IDLE_SESSION": "No activity",
             "IDLE_SESSION_QUESTION": "Do you want to keep the order?",
-            "FILTER_ON_ALLERGENS": "Highlight allergens"
+            "FILTER_ON_ALLERGENS": "Highlight allergens",
+            "TRUE": "Yes",
+            "FALSE": "No",
+            "BRAND1": "{brandName}",
+            "BRAND2": "{{brandName}}"
         },
         "ADJECTIVES": {
             "SOLD_OUT": "Sold out",
