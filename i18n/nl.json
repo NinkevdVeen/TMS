@@ -1,0 +1,159 @@
+{
+    "ERROR": {
+        "TITLE": "Er ging iets mis",
+        "MESSAGE": "Start from the correct page to continue",
+        "OFFLINE": {
+            "TITLE": "No connection",
+            "MESSAGE": "Unfortunately you can't order for a while. If this message does not disappear, you can contact an employee."
+        }
+    },
+    "ORDER": {
+        "TITLE": "My order",
+        "RECEIPT_MODAL": {
+            "TITLE": "Would you like a receipt?",
+            "CONFIRM": "Yes, print a receipt"
+        },
+        "KIOSK_TYPE_GNG": {
+            "TITLE": "My shopping basket"
+        },
+        "NIX18_MODAL": {
+            "TITLE": "Are you 18 years or older?",
+            "CONTEXT": "Because it is required by law, we ask for your age just to be sure. Everyone agrees, you just shouldn't smoke and drink under 18. That is why we have an agreement: the agreement of NIX.",
+            "NO": "No, I am not yet 18 years old.",
+            "YES": "Yes, I am over 18 years old."
+        },
+        "CLOSED": {
+            "CHECKOUT_WILL_OPEN_AT": "The self-scan checkout will open at",
+            "CHECKOUT_CLOSED": "Self-scan checkout closed",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "Self-service checkout closed",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "The self-service checkout will open at"
+        },
+        "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY": ""
+        }
+    },
+    "SHARED": {
+        "NOUNS": {
+            "TOTAL": "Total",
+            "SUBTOTAL": "Subtotal",
+            "ADVANTAGE": "Advantage",
+            "NO": "No",
+            "ALLERGENS": "Allergens"
+        },
+        "VERBS": {
+            "PAY": "Pay",
+            "CANCEL": "Cancel",
+            "ORDER": "Order",
+            "ADD": "Add",
+            "SEARCH": "Search",
+            "RESET": "Reset",
+            "CHOOSE": "Choose",
+            "EDIT": "Edit",
+            "APPLY": "Apply"
+        },
+        "ACTIONS": {
+            "SCAN_PRODUCTS": "<b>Please scan</b> your products",
+            "EMPTY_BASKET_CONFIRM": "Yes, empty shopping basket",
+            "EMPTY_BASKET": "Empty shopping basket",
+            "MANUALLY_ENTER": "Enter manually",
+            "CANCEL_ORDER_CONFIRM": "Yes, cancel order",
+            "REJECT_CANCEL_ORDER": "No, keep order",
+            "CANCEL_ORDER": "Cancel order",
+            "VIEW_ORDER": "View order",
+            "NO_CANCEL_ORDER": "No, cancel order",
+            "YES_KEEP_SESSION": "Yes, keep order",
+            "CHOOSE_LANGUAGE": "Choose a language"
+        },
+        "MISC": {
+            "EMPTY_BASKET_QUESTION": "Are you sure you want to empty the shopping basket?",
+            "SCAN_ERROR": "Barcode cannot be processed",
+            "LIMITED_SUPPLY": "Limited supply",
+            "CANCEL_ORDER_QUESTION": "Are you sure you want to cancel the order?",
+            "IDLE_SESSION": "No activity",
+            "IDLE_SESSION_QUESTION": "Do you want to keep the order?",
+            "FILTER_ON_ALLERGENS": "Highlight allergens",
+            "TRUE": "Yes",
+            "FALSE": "No",
+            "BRAND1": "{brandName}",
+            "BRAND2": "{{brandName}}"
+        },
+        "ADJECTIVES": {
+            "SOLD_OUT": "Sold out",
+            "ADDED": "Added",
+            "INCOMPLETE": "Incomplete"
+        },
+        "ALLERGENS": {
+            "GLUTEN": "Gluten",
+            "CRUSTACEANS": "Crustaceans",
+            "EGG": "Egg",
+            "FISH": "Fish",
+            "PEANUT": "Peanut",
+            "SOY": "Soy",
+            "MILK": "Milk",
+            "NUTS": "Nuts",
+            "CELERY": "Celery",
+            "MUSTARD": "Mustard",
+            "SESAME_SEEDS": "Sesame seeds",
+            "SULPHITES": "Sulphites",
+            "LUPIN": "Lupin",
+            "MOLLUSCS": "Molluscs"
+        }
+    },
+    "PAYMENT": {
+        "TITLE": "Payment in progress...",
+        "SUBTITLE": "Please follow the instructions on the payment terminal",
+        "SUCCEED": {
+            "TITLE": "Payment successful",
+            "CTA": "Next customer",
+            "SUBTITLE": "Order number: "
+        },
+        "FAIL": {
+            "TITLE": "Payment failed",
+            "SUBTITLE": "Go back and try again",
+            "CTA": "Try again"
+        },
+        "FAIL_SOLD_OUT": {
+            "TITLE": "Product(s) sold out",
+            "SUBTITLE": "One or more products are sold out, please return to your order overview to change the marked products.",
+            "CTA": "Back to order overview"
+        }
+    },
+    "MENU": {
+        "CTA": "View shopping basket",
+        "SEARCH": {
+            "TITLE": "No search results found",
+            "SUBTITLE": "Adjust your search or choose a category",
+            "RESULT": "search result",
+            "RESULTS": "search results"
+        },
+        "ITEM": {
+            "INCOMPLETE": "Incomplete order",
+            "PREVIOUS_CHOICE_FIRST": "Complete the previous step first",
+            "CHANGE_CHOICE": "Change your choice",
+            "MAKE_CHOICE": "Choose an option",
+            "ONE_CHOICE_POSSIBLE": "Choose one option",
+            "MULTIPLE_CHOICES_POSSIBLE": "Multiple options possible",
+            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} options possible",
+            "MAKE_MINSEL_CHOICES": "Choose {{minSel}} options",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "Choose at least {{minSel}} options",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "Choose at least {{minSel}} option",
+            "NO_CHOICE_POSSIBLE": "There is no choice possible"
+        },
+        "FRENCH_MENU": {
+            "CHOICES": {
+                "TITLE": "My choice"
+            }
+        }
+    },
+    "HOME": {
+        "ACCESSIBILITY": "Accessibility",
+        "TAKE_AWAY": "Takeout",
+        "EAT_IN": "Eat-in",
+        "CLOSED": {
+            "KIOSK_CLOSED": "Kiosk closed",
+            "KIOSK_WILL_OPEN_AT": "The kiosk will open at"
+        }
+    }
+}
