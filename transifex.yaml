@@ -1,5 +1,5 @@
 git:
-filters:
+  filters:
   - filter_type: file
     file_format: STRUCTURED_JSON
     source_language: en
