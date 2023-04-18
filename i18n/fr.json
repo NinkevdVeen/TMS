@@ -1,0 +1,196 @@
+{
+    "BUTTONS.CHANGE": "Modifier",
+    "BUTTONS.EXTRA": "Extra",
+    "BUTTONS.LESS": "Moins",
+    "BUTTONS.MORE": "Plus",
+    "BUTTONS.PRINT": "Imprimer",
+    "BUTTONS.PRINT_ALL": "IMPRIMER TOUS",
+    "BUTTONS.REMOVE": "Supprimer",
+    "BUTTONS.SEARCH_CUSTOMER": "Recherche client",
+    "COMMON.COVER": "Couvert",
+    "COMMON.MAX": "max",
+    "COMMON.MAX_VALUE": "Max : {{ value }}",
+    "COMMON.MIN_VALUE": "Min : {{ value }}",
+    "ERROR": {
+        "MESSAGE": "",
+        "OFFLINE": {
+            "MESSAGE": "",
+            "TITLE": ""
+        },
+        "TITLE": ""
+    },
+    "HOME": {
+        "ACCESSIBILITY": "",
+        "CLOSED": {
+            "KIOSK_CLOSED": "",
+            "KIOSK_WILL_OPEN_AT": ""
+        },
+        "EAT_IN": "",
+        "TAKE_AWAY": ""
+    },
+    "MENU": {
+        "CTA": "",
+        "FRENCH_MENU": {
+            "CHOICES": {
+                "TITLE": ""
+            }
+        },
+        "ITEM": {
+            "CHANGE_CHOICE": "",
+            "INCOMPLETE": "",
+            "MAKE_CHOICE": "",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "",
+            "MAKE_MINSEL_CHOICES": "",
+            "MAXSEL_CHOICES_POSSIBLE": "",
+            "MULTIPLE_CHOICES_POSSIBLE": "",
+            "NO_CHOICE_POSSIBLE": "",
+            "ONE_CHOICE_POSSIBLE": "",
+            "PREVIOUS_CHOICE_FIRST": ""
+        },
+        "SEARCH": {
+            "RESULT": "",
+            "RESULTS": "",
+            "SUBTITLE": "",
+            "TITLE": ""
+        }
+    },
+    "MODALS.CLOSE": "Fermer",
+    "MODALS.CLOSED": "Fermé",
+    "MODALS.DELIVERY_TIME_SET": "Heure de livraison {{ time }}",
+    "MODALS.OPEN": "Ouvert",
+    "MODALS.PAYMENT_LOADING_MESSAGE": "Paiement en cours...",
+    "MODALS.PAYMENT_LOADING_TITLE": "Soyez patient",
+    "MODALS.TIP_ITEM_CHANGE": "Monnaie",
+    "MODALS.TIP_ITEM_TIP": "Pourboire",
+    "NAVIGATION.HELP": "Aide",
+    "NAVIGATION.STOCK": "Stock",
+    "ORDER": {
+        "CLOSED": {
+            "CHECKOUT_CLOSED": "",
+            "CHECKOUT_WILL_OPEN_AT": "",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": ""
+        },
+        "KIOSK_TYPE_GNG": {
+            "TITLE": ""
+        },
+        "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
+            "EMPTY": "",
+            "EMPTY_TITLE": "",
+            "TITLE": ""
+        },
+        "NIX18_MODAL": {
+            "CONTEXT": "",
+            "NO": "",
+            "TITLE": "",
+            "YES": ""
+        },
+        "RECEIPT_MODAL": {
+            "CONFIRM": "",
+            "TITLE": ""
+        },
+        "TITLE": ""
+    },
+    "PAYMENT": {
+        "FAIL": {
+            "CTA": "",
+            "SUBTITLE": "",
+            "TITLE": ""
+        },
+        "FAIL_SOLD_OUT": {
+            "CTA": "",
+            "SUBTITLE": "",
+            "TITLE": ""
+        },
+        "SUBTITLE": "",
+        "SUCCEED": {
+            "CTA": "",
+            "SUBTITLE": "",
+            "TITLE": ""
+        },
+        "TITLE": ""
+    },
+    "SEARCH_ORDERS.ENDING_DATE": "Fin :",
+    "SEARCH_ORDERS.STARTING_DATE": "Début :",
+    "SHARED": {
+        "ACTIONS": {
+            "CANCEL_ORDER": "",
+            "CANCEL_ORDER_CONFIRM": "",
+            "CHOOSE_LANGUAGE": "",
+            "EMPTY_BASKET": "",
+            "EMPTY_BASKET_CONFIRM": "",
+            "MANUALLY_ENTER": "",
+            "NO_CANCEL_ORDER": "",
+            "REJECT_CANCEL_ORDER": "",
+            "SCAN_PRODUCTS": "",
+            "VIEW_ORDER": "",
+            "YES_KEEP_SESSION": ""
+        },
+        "ADJECTIVES": {
+            "ADDED": "",
+            "INCOMPLETE": "",
+            "SOLD_OUT": ""
+        },
+        "ALLERGENS": {
+            "CELERY": "",
+            "CRUSTACEANS": "",
+            "EGG": "",
+            "FISH": "",
+            "GLUTEN": "",
+            "LUPIN": "",
+            "MILK": "",
+            "MOLLUSCS": "",
+            "MUSTARD": "",
+            "NUTS": "",
+            "PEANUT": "",
+            "SESAME_SEEDS": "",
+            "SOY": "",
+            "SULPHITES": ""
+        },
+        "MISC": {
+            "BRAND1": "",
+            "BRAND2": "",
+            "CANCEL_ORDER_QUESTION": "",
+            "EMPTY_BASKET_QUESTION": "",
+            "FALSE": "",
+            "FILTER_ON_ALLERGENS": "",
+            "IDLE_SESSION": "",
+            "IDLE_SESSION_QUESTION": "",
+            "LIMITED_SUPPLY": "",
+            "SCAN_ERROR": "",
+            "TRUE": ""
+        },
+        "NOUNS": {
+            "ADVANTAGE": "",
+            "ALLERGENS": "",
+            "NO": "",
+            "SUBTOTAL": "",
+            "TOTAL": ""
+        },
+        "VERBS": {
+            "ADD": "",
+            "APPLY": "",
+            "CANCEL": "",
+            "CHOOSE": "",
+            "EDIT": "",
+            "ORDER": "",
+            "PAY": "",
+            "RESET": "",
+            "SEARCH": ""
+        }
+    },
+    "btnNo": "",
+    "btnOk": "",
+    "btnYes": "",
+    "caption": "",
+    "delete": "",
+    "lorem": "Lorem ipsum dolor set amet pour booq",
+    "update_available": "",
+    "update_extracheck": "",
+    "update_failed": "",
+    "update_notavail": "",
+    "update_success": "",
+    "welcome_header": "",
+    "windows-test": "Il n'y a pas de fenêtres dans la maison"
+}
