@@ -1,32 +1,32 @@
 {
     "ERROR": {
-        "TITLE": "Something went wrong",
-        "MESSAGE": "Start from the correct page to continue",
+        "TITLE": "Etwas ist schief gelaufen",
+        "MESSAGE": "Starte von der richtigen Seite um fortzufahren",
         "OFFLINE": {
-            "TITLE": "No connection",
-            "MESSAGE": "Unfortunately you can't order for a while. If this message does not disappear, you can contact an employee."
+            "TITLE": "Keine Verbindung",
+            "MESSAGE": "Leider können Sie nicht für eine Weile bestellen. Wenn diese Nachricht nicht verschwindet, können Sie sich an einen Mitarbeiter wenden."
         }
     },
     "ORDER": {
-        "TITLE": "My order",
+        "TITLE": "Meine Bestellung",
         "RECEIPT_MODAL": {
-            "TITLE": "Would you like a receipt?",
-            "CONFIRM": "Yes, print a receipt"
+            "TITLE": "Möchten Sie eine Quittung?",
+            "CONFIRM": "Ja, Beleg drucken"
         },
         "KIOSK_TYPE_GNG": {
-            "TITLE": "My shopping basket"
+            "TITLE": "Mein Warenkorb"
         },
         "NIX18_MODAL": {
-            "TITLE": "Are you 18 years or older?",
-            "CONTEXT": "Because it is required by law, we ask for your age just to be sure. Everyone agrees, you just shouldn't smoke and drink under 18. That is why we have an agreement: the agreement of NIX.",
-            "NO": "No, I am not yet 18 years old.",
-            "YES": "Yes, I am over 18 years old."
+            "TITLE": "Sind Sie 18 Jahre oder älter?",
+            "CONTEXT": "Da es gesetzlich vorgeschrieben ist, bitten wir darum, dass Ihr Alter sicher ist. Jeder stimmt zu, du solltest einfach nicht unter 18 rauchen und trinken, deshalb haben wir eine Vereinbarung: die Vereinbarung von NIX.",
+            "NO": "Nein, ich bin noch nicht 18 Jahre alt.",
+            "YES": "Ja, ich bin über 18 Jahre alt."
         },
         "CLOSED": {
-            "CHECKOUT_WILL_OPEN_AT": "The self-scan checkout will open at",
-            "CHECKOUT_CLOSED": "Self-scan checkout closed",
-            "SELF_SERVICE_CHECKOUT_CLOSED": "Self-service checkout closed",
-            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "The self-service checkout will open at"
+            "CHECKOUT_WILL_OPEN_AT": "Der Selbscan-Checkout wird geöffnet um",
+            "CHECKOUT_CLOSED": "Self-Scan Checkout geschlossen",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "Self-Service Kasse geschlossen",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "Der Self-Service-Checkout wird geöffnet um"
         },
         "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
             "TITLE": "",
@@ -36,124 +36,124 @@
     },
     "SHARED": {
         "NOUNS": {
-            "TOTAL": "Total",
-            "SUBTOTAL": "Subtotal",
-            "ADVANTAGE": "Advantage",
-            "NO": "No",
-            "ALLERGENS": "Allergens"
+            "TOTAL": "Gesamt",
+            "SUBTOTAL": "Zwischensumme",
+            "ADVANTAGE": "Vorteil",
+            "NO": "Nein",
+            "ALLERGENS": "Allergene"
         },
         "VERBS": {
-            "PAY": "Pay",
-            "CANCEL": "Cancel",
-            "ORDER": "Order",
-            "ADD": "Add",
-            "SEARCH": "Search",
+            "PAY": "Zahle",
+            "CANCEL": "Abbrechen",
+            "ORDER": "Sortierung",
+            "ADD": "Neu",
+            "SEARCH": "Suchen",
             "RESET": "Reset",
-            "CHOOSE": "Choose",
-            "EDIT": "Edit",
-            "APPLY": "Apply"
+            "CHOOSE": "Auswählen",
+            "EDIT": "Bearbeiten",
+            "APPLY": "Anwenden"
         },
         "ACTIONS": {
-            "SCAN_PRODUCTS": "<b>Please scan</b> your products",
-            "EMPTY_BASKET_CONFIRM": "Yes, empty shopping basket",
-            "EMPTY_BASKET": "Empty shopping basket",
-            "MANUALLY_ENTER": "Enter manually",
-            "CANCEL_ORDER_CONFIRM": "Yes, cancel order",
-            "REJECT_CANCEL_ORDER": "No, keep order",
-            "CANCEL_ORDER": "Cancel order",
-            "VIEW_ORDER": "View order",
-            "NO_CANCEL_ORDER": "No, cancel order",
-            "YES_KEEP_SESSION": "Yes, keep order",
-            "CHOOSE_LANGUAGE": "Choose a language"
+            "SCAN_PRODUCTS": "<b>Bitte scannen Sie</b> Ihre Produkte",
+            "EMPTY_BASKET_CONFIRM": "Ja, leerer Warenkorb",
+            "EMPTY_BASKET": "Leerer Warenkorb",
+            "MANUALLY_ENTER": "Manuell eingeben",
+            "CANCEL_ORDER_CONFIRM": "Ja, Bestellung stornieren",
+            "REJECT_CANCEL_ORDER": "Nein, Bestellung behalten",
+            "CANCEL_ORDER": "Bestellung stornieren",
+            "VIEW_ORDER": "Bestellung anzeigen",
+            "NO_CANCEL_ORDER": "Nein, Bestellung stornieren",
+            "YES_KEEP_SESSION": "Ja, Bestellung behalten",
+            "CHOOSE_LANGUAGE": "Sprache wählen"
         },
         "MISC": {
-            "EMPTY_BASKET_QUESTION": "Are you sure you want to empty the shopping basket?",
-            "SCAN_ERROR": "Barcode cannot be processed",
-            "LIMITED_SUPPLY": "Limited supply",
-            "CANCEL_ORDER_QUESTION": "Are you sure you want to cancel the order?",
-            "IDLE_SESSION": "No activity",
-            "IDLE_SESSION_QUESTION": "Do you want to keep the order?",
-            "FILTER_ON_ALLERGENS": "Highlight allergens",
-            "TRUE": "Yes",
-            "FALSE": "No",
+            "EMPTY_BASKET_QUESTION": "Sind Sie sicher, dass Sie den Warenkorb leeren möchten?",
+            "SCAN_ERROR": "Barcode kann nicht verarbeitet werden",
+            "LIMITED_SUPPLY": "Begrenzte Versorgung",
+            "CANCEL_ORDER_QUESTION": "Sind Sie sicher, dass Sie die Bestellung stornieren möchten?",
+            "IDLE_SESSION": "Keine Aktivität",
+            "IDLE_SESSION_QUESTION": "Möchten Sie die Bestellung beibehalten?",
+            "FILTER_ON_ALLERGENS": "Allergene hervorheben",
+            "TRUE": "Ja",
+            "FALSE": "Nein",
             "BRAND1": "{brandName}",
             "BRAND2": "{{brandName}}"
         },
         "ADJECTIVES": {
-            "SOLD_OUT": "Sold out",
-            "ADDED": "Added",
-            "INCOMPLETE": "Incomplete"
+            "SOLD_OUT": "Ausverkauft",
+            "ADDED": "Hinzugefügt",
+            "INCOMPLETE": "Unvollständig"
         },
         "ALLERGENS": {
             "GLUTEN": "Gluten",
-            "CRUSTACEANS": "Crustaceans",
-            "EGG": "Egg",
-            "FISH": "Fish",
+            "CRUSTACEANS": "Krustentieren",
+            "EGG": "Ei",
+            "FISH": "Fisch",
             "PEANUT": "Peanut",
             "SOY": "Soy",
-            "MILK": "Milk",
-            "NUTS": "Nuts",
-            "CELERY": "Celery",
-            "MUSTARD": "Mustard",
-            "SESAME_SEEDS": "Sesame seeds",
-            "SULPHITES": "Sulphites",
+            "MILK": "Milch",
+            "NUTS": "Nüsse",
+            "CELERY": "Berühmtheit",
+            "MUSTARD": "Senf",
+            "SESAME_SEEDS": "Sesam-Samen",
+            "SULPHITES": "Sulfite",
             "LUPIN": "Lupin",
-            "MOLLUSCS": "Molluscs"
+            "MOLLUSCS": "Mollusken"
         }
     },
     "PAYMENT": {
-        "TITLE": "Payment in progress...",
-        "SUBTITLE": "Please follow the instructions on the payment terminal",
+        "TITLE": "Zahlung läuft...",
+        "SUBTITLE": "Bitte befolgen Sie die Anweisungen auf dem Zahlungsterminal",
         "SUCCEED": {
-            "TITLE": "Payment successful",
-            "CTA": "Next customer",
-            "SUBTITLE": "Order number: "
+            "TITLE": "Zahlung erfolgreich",
+            "CTA": "Nächster Kunde",
+            "SUBTITLE": "Bestellnummer: "
         },
         "FAIL": {
-            "TITLE": "Payment failed",
-            "SUBTITLE": "Go back and try again",
-            "CTA": "Try again"
+            "TITLE": "Zahlung fehlgeschlagen",
+            "SUBTITLE": "Zurück und erneut versuchen",
+            "CTA": "Erneut versuchen"
         },
         "FAIL_SOLD_OUT": {
-            "TITLE": "Product(s) sold out",
-            "SUBTITLE": "One or more products are sold out, please return to your order overview to change the marked products.",
-            "CTA": "Back to order overview"
+            "TITLE": "Produkt(e) ausverkauft",
+            "SUBTITLE": "Ein oder mehrere Produkte sind ausverkauft, bitte kehren Sie zu Ihrer Bestellübersicht zurück, um die markierten Produkte zu ändern.",
+            "CTA": "Zurück zur Bestellübersicht"
         }
     },
     "MENU": {
-        "CTA": "View shopping basket",
+        "CTA": "Warenkorb anzeigen",
         "SEARCH": {
-            "TITLE": "No search results found",
-            "SUBTITLE": "Adjust your search or choose a category",
-            "RESULT": "search result",
-            "RESULTS": "search results"
+            "TITLE": "Keine Suchergebnisse gefunden",
+            "SUBTITLE": "Passen Sie Ihre Suche oder eine Kategorie an",
+            "RESULT": "suchergebnis",
+            "RESULTS": "Suchergebnisse"
         },
         "ITEM": {
-            "INCOMPLETE": "Incomplete order",
-            "PREVIOUS_CHOICE_FIRST": "Complete the previous step first",
-            "CHANGE_CHOICE": "Change your choice",
-            "MAKE_CHOICE": "Choose an option",
-            "ONE_CHOICE_POSSIBLE": "Choose one option",
-            "MULTIPLE_CHOICES_POSSIBLE": "Multiple options possible",
-            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} options possible",
-            "MAKE_MINSEL_CHOICES": "Choose {{minSel}} options",
-            "MAKE_MINIMUM_MINSEL_CHOICES": "Choose at least {{minSel}} options",
-            "MAKE_MINIMUM_MINSEL_CHOICE": "Choose at least {{minSel}} option",
-            "NO_CHOICE_POSSIBLE": "There is no choice possible"
+            "INCOMPLETE": "Unvollständige Bestellung",
+            "PREVIOUS_CHOICE_FIRST": "Erledige zuerst den vorherigen Schritt",
+            "CHANGE_CHOICE": "Ändern Sie Ihre Wahl",
+            "MAKE_CHOICE": "Wählen Sie eine Option",
+            "ONE_CHOICE_POSSIBLE": "Wählen Sie eine Option",
+            "MULTIPLE_CHOICES_POSSIBLE": "Mehrere Optionen möglich",
+            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} Optionen möglich",
+            "MAKE_MINSEL_CHOICES": "Wähle {{minSel}} Optionen",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "Wählen Sie mindestens {{minSel}} Optionen",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "Wählen Sie mindestens {{minSel}} Option",
+            "NO_CHOICE_POSSIBLE": "Es ist keine Wahl möglich"
         },
         "FRENCH_MENU": {
             "CHOICES": {
-                "TITLE": "My choice"
+                "TITLE": "Meine Wahl"
             }
         }
     },
     "HOME": {
-        "ACCESSIBILITY": "Accessibility",
-        "TAKE_AWAY": "Takeout",
-        "EAT_IN": "Eat-in",
+        "ACCESSIBILITY": "Bedienungshilfen",
+        "TAKE_AWAY": "Ausschluss",
+        "EAT_IN": "Essen in",
         "CLOSED": {
-            "KIOSK_CLOSED": "Kiosk closed",
-            "KIOSK_WILL_OPEN_AT": "The kiosk will open at"
+            "KIOSK_CLOSED": "Kiosk geschlossen",
+            "KIOSK_WILL_OPEN_AT": "Der Kiosk wird geöffnet um"
         }
     }
 }
