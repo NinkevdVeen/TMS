@@ -1,0 +1,13 @@
+git:
+filters:
+  - filter_type: file
+    file_format: STRUCTURED_JSON
+    source_language: en
+    source_file: 'i18n/en.json'
+    translation_files_expression: 'i18n/<lang>.json'
+
+  - filter_type: file
+    file_format: PROPERTIES
+    source_language: en
+    source_file: 'i18n/en.properties'
+    translation_files_expression: 'i18n/<lang>.properties'
