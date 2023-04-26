@@ -1,7 +1,7 @@
 {
     "ERROR": {
         "TITLE": "Er ging iets mis",
-        "MESSAGE": "Start vanaf de juiste pagina om door te gaan",
+        "MESSAGE": "Start vanaf de juiste pagina om door te gaan.",
         "OFFLINE": {
             "TITLE": "Geen verbinding",
             "MESSAGE": "Helaas kunt u een tijdje geen bestelling plaatsen. Als dit bericht niet verdwijnt, kunt u contact opnemen met een medewerker."
