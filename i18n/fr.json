@@ -1,0 +1,159 @@
+{
+    "ERROR": {
+        "TITLE": "Quelque chose s'est mal passé",
+        "MESSAGE": "Commencez à partir de la bonne page pour continuer",
+        "OFFLINE": {
+            "TITLE": "Aucune connexion",
+            "MESSAGE": "Malheureusement, vous ne pouvez pas commander pendant un certain temps. Si ce message ne disparaît pas, vous pouvez contacter un employé."
+        }
+    },
+    "ORDER": {
+        "TITLE": "Ma commande",
+        "RECEIPT_MODAL": {
+            "TITLE": "Souhaitez-vous recevoir un reçu ?",
+            "CONFIRM": "Oui, imprimer un reçu"
+        },
+        "KIOSK_TYPE_GNG": {
+            "TITLE": "Mon panier"
+        },
+        "NIX18_MODAL": {
+            "TITLE": "Êtes-vous âgé de 18 ans ou plus ?",
+            "CONTEXT": "Parce qu'il est requis par la loi, nous demandons que votre âge soit sûr. Tout le monde est d'accord, vous ne devriez pas fumer et boire moins de 18 ans, c'est pourquoi nous avons un accord: l'accord de NIX.",
+            "NO": "Non, je n'ai pas encore 18 ans.",
+            "YES": "Oui, j'ai plus de 18 ans."
+        },
+        "CLOSED": {
+            "CHECKOUT_WILL_OPEN_AT": "Le paiement automatique s'ouvrira à",
+            "CHECKOUT_CLOSED": "Panier auto-scan fermé",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "Commande en libre-service fermée",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "Le paiement en libre-service s'ouvrira à"
+        },
+        "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY": ""
+        }
+    },
+    "SHARED": {
+        "NOUNS": {
+            "TOTAL": "Total",
+            "SUBTOTAL": "Sous-total",
+            "ADVANTAGE": "Avantage",
+            "NO": "Non",
+            "ALLERGENS": "Alergènes"
+        },
+        "VERBS": {
+            "PAY": "Payer",
+            "CANCEL": "Abandonner",
+            "ORDER": "Commandes",
+            "ADD": "Ajouter",
+            "SEARCH": "Chercher",
+            "RESET": "Reset",
+            "CHOOSE": "Choisir",
+            "EDIT": "Editer",
+            "APPLY": "Appliquer"
+        },
+        "ACTIONS": {
+            "SCAN_PRODUCTS": "<b>Veuillez scanner</b> vos produits",
+            "EMPTY_BASKET_CONFIRM": "Oui, vider le panier",
+            "EMPTY_BASKET": "Vider le panier",
+            "MANUALLY_ENTER": "Entrer manuellement",
+            "CANCEL_ORDER_CONFIRM": "Oui, annuler la commande",
+            "REJECT_CANCEL_ORDER": "Non, garder la commande",
+            "CANCEL_ORDER": "Annuler la commande",
+            "VIEW_ORDER": "Voir la commande",
+            "NO_CANCEL_ORDER": "Non, annuler la commande",
+            "YES_KEEP_SESSION": "Oui, garder la commande",
+            "CHOOSE_LANGUAGE": "Choisir une langue"
+        },
+        "MISC": {
+            "EMPTY_BASKET_QUESTION": "Êtes-vous sûr de vouloir vider le panier ?",
+            "SCAN_ERROR": "Le code-barres ne peut pas être traité",
+            "LIMITED_SUPPLY": "Offre limitée",
+            "CANCEL_ORDER_QUESTION": "Êtes-vous sûr de vouloir annuler la commande ?",
+            "IDLE_SESSION": "Aucune activité",
+            "IDLE_SESSION_QUESTION": "Voulez-vous conserver la commande ?",
+            "FILTER_ON_ALLERGENS": "Surligner les allergènes",
+            "TRUE": "Oui",
+            "FALSE": "Non",
+            "BRAND1": "{brandName}",
+            "BRAND2": "{{brandName}}"
+        },
+        "ADJECTIVES": {
+            "SOLD_OUT": "Épuisé",
+            "ADDED": "Ajouté",
+            "INCOMPLETE": "Incomplet"
+        },
+        "ALLERGENS": {
+            "GLUTEN": "Gluement",
+            "CRUSTACEANS": "Crustacés",
+            "EGG": "Oeuf",
+            "FISH": "Poisson",
+            "PEANUT": "Peanut",
+            "SOY": "Soy",
+            "MILK": "Lait",
+            "NUTS": "Noix",
+            "CELERY": "Célerie",
+            "MUSTARD": "moutarde",
+            "SESAME_SEEDS": "Graines de sésame",
+            "SULPHITES": "Sulphites",
+            "LUPIN": "Lupin",
+            "MOLLUSCS": "Mollusques"
+        }
+    },
+    "PAYMENT": {
+        "TITLE": "Paiement en cours...",
+        "SUBTITLE": "Veuillez suivre les instructions sur le terminal de paiement",
+        "SUCCEED": {
+            "TITLE": "Paiement réussi",
+            "CTA": "Client suivant",
+            "SUBTITLE": "Numéro de commande: "
+        },
+        "FAIL": {
+            "TITLE": "Le paiement a échoué",
+            "SUBTITLE": "Revenir en arrière et réessayer",
+            "CTA": "Réessayez"
+        },
+        "FAIL_SOLD_OUT": {
+            "TITLE": "Produit(s) vendu(s)",
+            "SUBTITLE": "Un ou plusieurs produits sont vendus, veuillez revenir à votre aperçu de commande pour modifier les produits marqués.",
+            "CTA": "Retour à la vue d'ensemble des commandes"
+        }
+    },
+    "MENU": {
+        "CTA": "Voir le panier",
+        "SEARCH": {
+            "TITLE": "Aucun résultat de recherche trouvé",
+            "SUBTITLE": "Ajuster votre recherche ou choisir une catégorie",
+            "RESULT": "Résultat de la recherche",
+            "RESULTS": "résultats de recherche"
+        },
+        "ITEM": {
+            "INCOMPLETE": "Commande incomplète",
+            "PREVIOUS_CHOICE_FIRST": "Complétez d'abord l'étape précédente",
+            "CHANGE_CHOICE": "Changer votre choix",
+            "MAKE_CHOICE": "Choisissez une option",
+            "ONE_CHOICE_POSSIBLE": "Choisissez une option",
+            "MULTIPLE_CHOICES_POSSIBLE": "Plusieurs options possibles",
+            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} options possibles",
+            "MAKE_MINSEL_CHOICES": "Choisir les options de {{minSel}}",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "Choisissez au moins {{minSel}} options",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "Choisissez au moins {{minSel}} option",
+            "NO_CHOICE_POSSIBLE": "Il n'y a pas de choix possible"
+        },
+        "FRENCH_MENU": {
+            "CHOICES": {
+                "TITLE": "Mon choix"
+            }
+        }
+    },
+    "HOME": {
+        "ACCESSIBILITY": "Accessibilité",
+        "TAKE_AWAY": "Décollage",
+        "EAT_IN": "Manger dans",
+        "CLOSED": {
+            "KIOSK_CLOSED": "Kiosque fermé",
+            "KIOSK_WILL_OPEN_AT": "Le kiosque s'ouvrira à"
+        }
+    }
+}

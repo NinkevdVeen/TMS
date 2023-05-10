@@ -1,0 +1,159 @@
+{
+    "ERROR": {
+        "TITLE": "Er ging iets mis",
+        "MESSAGE": "Start vanaf de juiste pagina om door te gaan.",
+        "OFFLINE": {
+            "TITLE": "Geen verbinding",
+            "MESSAGE": "Helaas kunt u een tijdje geen bestelling plaatsen. Als dit bericht niet verdwijnt, kunt u contact opnemen met een medewerker."
+        }
+    },
+    "ORDER": {
+        "TITLE": "Mijn bestelling",
+        "RECEIPT_MODAL": {
+            "TITLE": "Wilt u een bonnetje?",
+            "CONFIRM": "Ja, print een bonnetje"
+        },
+        "KIOSK_TYPE_GNG": {
+            "TITLE": "Mijn winkelwagen"
+        },
+        "NIX18_MODAL": {
+            "TITLE": "Ben je 18 jaar of ouder?",
+            "CONTEXT": "Omdat het wettelijk verplicht is, vragen wij u om zekerheid over uw leeftijd. Iedereen is het ermee eens, je moet gewoon niet roken en drinken jonger dan 18 jaar. Daarom hebben we een overeenkomst: de overeenkomst van NIX.",
+            "NO": "Nee, ik ben nog niet 18 jaar oud.",
+            "YES": "Ja, ik ben ouder dan 18 jaar."
+        },
+        "CLOSED": {
+            "CHECKOUT_WILL_OPEN_AT": "De zelf-scan kassa wordt geopend op",
+            "CHECKOUT_CLOSED": "Self-scan afrekenen gesloten",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "Self-service afrekenen gesloten",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "De zelf-service kassa wordt geopend op"
+        },
+        "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY": ""
+        }
+    },
+    "SHARED": {
+        "NOUNS": {
+            "TOTAL": "Totaal",
+            "SUBTOTAL": "Subtotaal",
+            "ADVANTAGE": "Voordeel",
+            "NO": "Neen",
+            "ALLERGENS": "Allergenen"
+        },
+        "VERBS": {
+            "PAY": "Betalen",
+            "CANCEL": "annuleren",
+            "ORDER": "Bestelling",
+            "ADD": "Toevoegen",
+            "SEARCH": "Zoeken",
+            "RESET": "Reset",
+            "CHOOSE": "Kiezen",
+            "EDIT": "Bewerken",
+            "APPLY": "Toepassen"
+        },
+        "ACTIONS": {
+            "SCAN_PRODUCTS": "<b>Scan</b> uw producten",
+            "EMPTY_BASKET_CONFIRM": "Ja, lege winkelwagen",
+            "EMPTY_BASKET": "Leeg winkelmandje",
+            "MANUALLY_ENTER": "Handmatig invoeren",
+            "CANCEL_ORDER_CONFIRM": "Ja, bestelling annuleren",
+            "REJECT_CANCEL_ORDER": "Nee, bewaar bestelling",
+            "CANCEL_ORDER": "Bestelling annuleren",
+            "VIEW_ORDER": "Bestelling bekijken",
+            "NO_CANCEL_ORDER": "Nee, bestelling annuleren",
+            "YES_KEEP_SESSION": "Ja, bewaar bestelling",
+            "CHOOSE_LANGUAGE": "Kies een taal"
+        },
+        "MISC": {
+            "EMPTY_BASKET_QUESTION": "Weet u zeker dat u de winkelwagen wilt legen?",
+            "SCAN_ERROR": "Streepjescode kan niet worden verwerkt",
+            "LIMITED_SUPPLY": "Beperkte toevoer",
+            "CANCEL_ORDER_QUESTION": "Weet u zeker dat u de bestelling wilt annuleren?",
+            "IDLE_SESSION": "Geen activiteit",
+            "IDLE_SESSION_QUESTION": "Wilt u de bestelling houden?",
+            "FILTER_ON_ALLERGENS": "Highlight allergenen",
+            "TRUE": "ja",
+            "FALSE": "Neen",
+            "BRAND1": "{brandName}",
+            "BRAND2": "{{brandName}}"
+        },
+        "ADJECTIVES": {
+            "SOLD_OUT": "Verkocht",
+            "ADDED": "Toegevoegd",
+            "INCOMPLETE": "Onvolledig"
+        },
+        "ALLERGENS": {
+            "GLUTEN": "Gluten",
+            "CRUSTACEANS": "Schaaldieren",
+            "EGG": "Ei",
+            "FISH": "Vis",
+            "PEANUT": "Peanut",
+            "SOY": "Soy",
+            "MILK": "Melk",
+            "NUTS": "Noten",
+            "CELERY": "Bleekselderij",
+            "MUSTARD": "Mosterd",
+            "SESAME_SEEDS": "Sesamzaad",
+            "SULPHITES": "Sulfieten",
+            "LUPIN": "Lupin",
+            "MOLLUSCS": "Molluscs"
+        }
+    },
+    "PAYMENT": {
+        "TITLE": "Betaling in uitvoering...",
+        "SUBTITLE": "Volg de instructies op de betaalterminal",
+        "SUCCEED": {
+            "TITLE": "Betaling succesvol",
+            "CTA": "Volgende klant",
+            "SUBTITLE": "Bestelnummer: "
+        },
+        "FAIL": {
+            "TITLE": "Betaling mislukt",
+            "SUBTITLE": "Ga terug en probeer het opnieuw",
+            "CTA": "Opnieuw proberen"
+        },
+        "FAIL_SOLD_OUT": {
+            "TITLE": "Product(en) uitverkocht",
+            "SUBTITLE": "Een of meer producten worden verkocht, ga terug naar uw orderoverzicht om de gemarkeerde producten te wijzigen.",
+            "CTA": "Terug naar orderoverzicht"
+        }
+    },
+    "MENU": {
+        "CTA": "Bekijk winkelwagen",
+        "SEARCH": {
+            "TITLE": "Geen zoekresultaten gevonden",
+            "SUBTITLE": "Pas uw zoekopdracht aan of kies een categorie",
+            "RESULT": "zoek resultaat",
+            "RESULTS": "zoek resultaten"
+        },
+        "ITEM": {
+            "INCOMPLETE": "Onvolledige bestelling",
+            "PREVIOUS_CHOICE_FIRST": "Voltooi eerst de vorige stap",
+            "CHANGE_CHOICE": "Verander je keuze",
+            "MAKE_CHOICE": "Kies een optie",
+            "ONE_CHOICE_POSSIBLE": "Kies een optie",
+            "MULTIPLE_CHOICES_POSSIBLE": "Meerdere opties mogelijk",
+            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} opties mogelijk",
+            "MAKE_MINSEL_CHOICES": "{{minSel}} opties kiezen",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "Kies ten minste {{minSel}} opties",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "Kies ten minste {{minSel}} optie",
+            "NO_CHOICE_POSSIBLE": "Er is geen keuze mogelijk"
+        },
+        "FRENCH_MENU": {
+            "CHOICES": {
+                "TITLE": "Mijn keuze"
+            }
+        }
+    },
+    "HOME": {
+        "ACCESSIBILITY": "Toegankelijkheid",
+        "TAKE_AWAY": "Afhalen",
+        "EAT_IN": "Eat-in",
+        "CLOSED": {
+            "KIOSK_CLOSED": "Kiosk gesloten",
+            "KIOSK_WILL_OPEN_AT": "De kiosk opent om"
+        }
+    }
+}

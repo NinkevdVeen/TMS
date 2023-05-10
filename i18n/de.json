@@ -1,0 +1,159 @@
+{
+    "ERROR": {
+        "TITLE": "Etwas ist schief gelaufen",
+        "MESSAGE": "Starte von der richtigen Seite um fortzufahren",
+        "OFFLINE": {
+            "TITLE": "Keine Verbindung",
+            "MESSAGE": "Leider können Sie nicht für eine Weile bestellen. Wenn diese Nachricht nicht verschwindet, können Sie sich an einen Mitarbeiter wenden."
+        }
+    },
+    "ORDER": {
+        "TITLE": "Meine Bestellung",
+        "RECEIPT_MODAL": {
+            "TITLE": "Möchten Sie eine Quittung?",
+            "CONFIRM": "Ja, Beleg drucken"
+        },
+        "KIOSK_TYPE_GNG": {
+            "TITLE": "Mein Warenkorb"
+        },
+        "NIX18_MODAL": {
+            "TITLE": "Sind Sie 18 Jahre oder älter?",
+            "CONTEXT": "Da es gesetzlich vorgeschrieben ist, bitten wir darum, dass Ihr Alter sicher ist. Jeder stimmt zu, du solltest einfach nicht unter 18 rauchen und trinken, deshalb haben wir eine Vereinbarung: die Vereinbarung von NIX.",
+            "NO": "Nein, ich bin noch nicht 18 Jahre alt.",
+            "YES": "Ja, ich bin über 18 Jahre alt."
+        },
+        "CLOSED": {
+            "CHECKOUT_WILL_OPEN_AT": "Der Selbscan-Checkout wird geöffnet um",
+            "CHECKOUT_CLOSED": "Self-Scan Checkout geschlossen",
+            "SELF_SERVICE_CHECKOUT_CLOSED": "Self-Service Kasse geschlossen",
+            "SELF_SERVICE_CHECKOUT_WILL_OPEN_AT": "Der Self-Service-Checkout wird geöffnet um"
+        },
+        "KIOSK_TYPE_SELF_SERVICE_CHECKOUT": {
+            "TITLE": "",
+            "EMPTY_TITLE": "",
+            "EMPTY": ""
+        }
+    },
+    "SHARED": {
+        "NOUNS": {
+            "TOTAL": "Gesamt",
+            "SUBTOTAL": "Zwischensumme",
+            "ADVANTAGE": "Vorteil",
+            "NO": "Nein",
+            "ALLERGENS": "Allergene"
+        },
+        "VERBS": {
+            "PAY": "Zahle",
+            "CANCEL": "Abbrechen",
+            "ORDER": "Sortierung",
+            "ADD": "Neu",
+            "SEARCH": "Suchen",
+            "RESET": "Reset",
+            "CHOOSE": "Auswählen",
+            "EDIT": "Bearbeiten",
+            "APPLY": "Anwenden"
+        },
+        "ACTIONS": {
+            "SCAN_PRODUCTS": "<b>Bitte scannen Sie</b> Ihre Produkte",
+            "EMPTY_BASKET_CONFIRM": "Ja, leerer Warenkorb",
+            "EMPTY_BASKET": "Leerer Warenkorb",
+            "MANUALLY_ENTER": "Manuell eingeben",
+            "CANCEL_ORDER_CONFIRM": "Ja, Bestellung stornieren",
+            "REJECT_CANCEL_ORDER": "Nein, Bestellung behalten",
+            "CANCEL_ORDER": "Bestellung stornieren",
+            "VIEW_ORDER": "Bestellung anzeigen",
+            "NO_CANCEL_ORDER": "Nein, Bestellung stornieren",
+            "YES_KEEP_SESSION": "Ja, Bestellung behalten",
+            "CHOOSE_LANGUAGE": "Sprache wählen"
+        },
+        "MISC": {
+            "EMPTY_BASKET_QUESTION": "Sind Sie sicher, dass Sie den Warenkorb leeren möchten?",
+            "SCAN_ERROR": "Barcode kann nicht verarbeitet werden",
+            "LIMITED_SUPPLY": "Begrenzte Versorgung",
+            "CANCEL_ORDER_QUESTION": "Sind Sie sicher, dass Sie die Bestellung stornieren möchten?",
+            "IDLE_SESSION": "Keine Aktivität",
+            "IDLE_SESSION_QUESTION": "Möchten Sie die Bestellung beibehalten?",
+            "FILTER_ON_ALLERGENS": "Allergene hervorheben",
+            "TRUE": "Ja",
+            "FALSE": "Nein",
+            "BRAND1": "{brandName}",
+            "BRAND2": "{{brandName}}"
+        },
+        "ADJECTIVES": {
+            "SOLD_OUT": "Ausverkauft",
+            "ADDED": "Hinzugefügt",
+            "INCOMPLETE": "Unvollständig"
+        },
+        "ALLERGENS": {
+            "GLUTEN": "Gluten",
+            "CRUSTACEANS": "Krustentieren",
+            "EGG": "Ei",
+            "FISH": "Fisch",
+            "PEANUT": "Peanut",
+            "SOY": "Soy",
+            "MILK": "Milch",
+            "NUTS": "Nüsse",
+            "CELERY": "Berühmtheit",
+            "MUSTARD": "Senf",
+            "SESAME_SEEDS": "Sesam-Samen",
+            "SULPHITES": "Sulfite",
+            "LUPIN": "Lupin",
+            "MOLLUSCS": "Mollusken"
+        }
+    },
+    "PAYMENT": {
+        "TITLE": "Zahlung läuft...",
+        "SUBTITLE": "Bitte befolgen Sie die Anweisungen auf dem Zahlungsterminal",
+        "SUCCEED": {
+            "TITLE": "Zahlung erfolgreich",
+            "CTA": "Nächster Kunde",
+            "SUBTITLE": "Bestellnummer: "
+        },
+        "FAIL": {
+            "TITLE": "Zahlung fehlgeschlagen",
+            "SUBTITLE": "Zurück und erneut versuchen",
+            "CTA": "Erneut versuchen"
+        },
+        "FAIL_SOLD_OUT": {
+            "TITLE": "Produkt(e) ausverkauft",
+            "SUBTITLE": "Ein oder mehrere Produkte sind ausverkauft, bitte kehren Sie zu Ihrer Bestellübersicht zurück, um die markierten Produkte zu ändern.",
+            "CTA": "Zurück zur Bestellübersicht"
+        }
+    },
+    "MENU": {
+        "CTA": "Warenkorb anzeigen",
+        "SEARCH": {
+            "TITLE": "Keine Suchergebnisse gefunden",
+            "SUBTITLE": "Passen Sie Ihre Suche oder eine Kategorie an",
+            "RESULT": "suchergebnis",
+            "RESULTS": "Suchergebnisse"
+        },
+        "ITEM": {
+            "INCOMPLETE": "Unvollständige Bestellung",
+            "PREVIOUS_CHOICE_FIRST": "Erledige zuerst den vorherigen Schritt",
+            "CHANGE_CHOICE": "Ändern Sie Ihre Wahl",
+            "MAKE_CHOICE": "Wählen Sie eine Option",
+            "ONE_CHOICE_POSSIBLE": "Wählen Sie eine Option",
+            "MULTIPLE_CHOICES_POSSIBLE": "Mehrere Optionen möglich",
+            "MAXSEL_CHOICES_POSSIBLE": "{{maxSel}} Optionen möglich",
+            "MAKE_MINSEL_CHOICES": "Wähle {{minSel}} Optionen",
+            "MAKE_MINIMUM_MINSEL_CHOICES": "Wählen Sie mindestens {{minSel}} Optionen",
+            "MAKE_MINIMUM_MINSEL_CHOICE": "Wählen Sie mindestens {{minSel}} Option",
+            "NO_CHOICE_POSSIBLE": "Es ist keine Wahl möglich"
+        },
+        "FRENCH_MENU": {
+            "CHOICES": {
+                "TITLE": "Meine Wahl"
+            }
+        }
+    },
+    "HOME": {
+        "ACCESSIBILITY": "Bedienungshilfen",
+        "TAKE_AWAY": "Ausschluss",
+        "EAT_IN": "Essen in",
+        "CLOSED": {
+            "KIOSK_CLOSED": "Kiosk geschlossen",
+            "KIOSK_WILL_OPEN_AT": "Der Kiosk wird geöffnet um"
+        }
+    }
+}
