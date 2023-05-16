@@ -3,3 +3,9 @@ files:
     translation: /i18n/%two_letters_code%.json
   - source: /i18n/en.properties
     translation: /i18n/%two_letters_code%.properties
+targets:
+  - name: Test bundle
+    sources:
+      - i18n/test-en.csv
+    file: i18n/test/%two_letters_code%.json
+    format: crowdin-json
