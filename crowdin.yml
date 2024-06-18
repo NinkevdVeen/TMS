@@ -1,0 +1,9 @@
+pull_request_title: 'Crowdin - Update translations (please delete source branch after merge)'
+commit_message: 'Crowdin - Update %language% translations'
+append_commit_message: false
+
+files:
+  - source: /i18n/en.json
+    translation: /i18n/%two_letters_code%.json
+  - source: /i18n/en.properties
+    translation: /i18n/%two_letters_code%.properties
