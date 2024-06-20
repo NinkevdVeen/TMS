@@ -1,0 +1,31 @@
+{
+  "RECEIPT": {
+    "COMPONENTS": {
+      "PAGES": {
+        "DISPLAY": {
+          "DISCOUNT": "Discount",
+          "RETURNED_RECYCLING_DEPOSIT": "Recycling deposit return"
+        }
+      },
+      "TOTALS": {
+        "ARTICLES": "Articles",
+        "DISCOUNT": "Total advantage",
+        "TOTAL": "Total",
+        "SUBTOTAL": "Subtotal",
+        "RETURNED_RECYCLING_DEPOSIT": "Recycling deposit return"
+      }
+    }
+  },
+  "ERROR": {
+    "PAGES": {
+      "ERROR": {
+        "RECONNECT_MESSAGE": "Your screen will be automatically refreshed in {{reloadTime}} seconds",
+        "CONFIGURATION": "failed to load configuration",
+        "GENERAL": "something went wrong",
+        "START_SESSION": "failed to start session",
+        "GET_SESSION": "failed to get session",
+        "EXPIRED": "connection expired"
+      }
+    }
+  }
+}
